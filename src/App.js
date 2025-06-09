@@ -6,6 +6,9 @@ import Dtable from './component/Dtable'
 import Nav from './component/Nav'
 
 
+
+
+
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 function App() {
   return (
